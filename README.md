@@ -14,7 +14,7 @@ Zadanie polega na uzupełnieniu istniejącego kodu projektu aplikacji _Grade Boo
 
 **Zadania do wykonania:**
 
-1. Utwórz _Fork_ tego repozytorium na swoim koncie GitHub.
+1. Utwórz _Fork_ tego repozytorium na swoim konciee GitHub.
 2. Sklonuj repozytorium na lokalny dysk.
 3. Za pomocą Visual Studio 2019 otwórz plik _solution_ `GradeBook.sln`. Solution składa się z projektu aplikacji konsolowej oraz projektu testów jednostkowych. _Solution_ jest wstępnie skonfigurowane.
 4. Zaktualizuj rozszerzenia NuGet (prawokliknij na <kbd>Solution Explorer</kbd> → <kbd>Manage NuGet Packages for Solution..</kbd>). Jeśli tego nie zrobisz, prawdopodobnie testy się nie uruchomią.
